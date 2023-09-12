@@ -18,7 +18,8 @@ Jira, qase.io, postman, swagger, SoapUI, Chrome devtools, Mockoon, DBeaver, SQL,
 4: Написать отчет о результатах тестирования
 
 Как решал: Действовал по пунктам, от задачи "1" к задаче "4". Подготовил тест-план, Собрал всю тестовую документацию. После чего провел тестирование и написал отчет по его результатам.
-https://taha-bug-report.atlassian.net/l/cp/d1h4fKU2
+
+Ссылка на проект: https://taha-bug-report.atlassian.net/l/cp/d1h4fKU2
 
 Логин: aleha.a1@mail.ru
 
@@ -38,7 +39,8 @@ https://taha-bug-report.atlassian.net/l/cp/d1h4fKU2
 4. На основе результатов тест-рана дополнить отчет о тестировании
 
 5. Как решал: Дополнил тест-план согласно требованиям. Создал коллекию Postman, после чего провел тест-ран и на основе результатов тест-рана дополнил отчет о тестировании.
-https://taha-bug-report.atlassian.net/wiki/spaces/~63f9faa38ab3d6a635ee47ed/pages/884737/1+2
+
+Ссылка на проект: https://taha-bug-report.atlassian.net/wiki/spaces/~63f9faa38ab3d6a635ee47ed/pages/884737/1+2
 
 Логин: aleha.a1@mail.ru
 
