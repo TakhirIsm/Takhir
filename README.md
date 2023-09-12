@@ -6,7 +6,7 @@
 В этом репозитории вы сможете найти некоторые из моих проектов, выполненные во время обучения.
   
 # Навыки и технологии
-Jira, qase.io, postman, swagger, SoapUI, Chrome devtools, Mockoon, DBeaver
+Jira, qase.io, postman, swagger, SoapUI, Chrome devtools, Mockoon, DBeaver, SQL, API
 
 # Проекты
 Проект 1. Тест веб-приложения для учителей от Skyeng
