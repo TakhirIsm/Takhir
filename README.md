@@ -21,6 +21,7 @@ Jira, qase.io, postman, swagger, SoapUI, Chrome devtools, Mockoon, DBeaver, SQL,
 https://taha-bug-report.atlassian.net/l/cp/d1h4fKU2
 
 aleha.a1@mail.ru
+
 ismanov1999
 
 Выводы(Итоги): 
@@ -38,6 +39,7 @@ ismanov1999
 https://taha-bug-report.atlassian.net/wiki/spaces/~63f9faa38ab3d6a635ee47ed/pages/884737/1+2
 
 7. aleha.a1@mail.ru
+8. 
 ismanov1999
 
 Выводы(Итоги):
