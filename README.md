@@ -47,5 +47,5 @@ Jira, qase.io, postman, swagger, SoapUI, Chrome devtools, Mockoon, DBeaver, SQL,
 После анализа результатов запуска Postman коллекции ошибок не выявлено. 
 Продукт готов к релизу.
 
-# Контактная инофрмация:
+# Контактная информация:
 Email: ismanov.2@mail.ru
